@@ -4,9 +4,13 @@
 The goal of this project is to study how different variables affect recurrence and the time to recurrence in patients diagnosed with uterine cancer. This research utilizes data from the TCGA corpus and focuses on five key areas:
 
 Clinical Information: Demographic and clinical details about the patient.
+
 Sample Information: Data on the samples taken from the patients.
+
 Sample Acquisition Information: Details regarding the acquisition of the samples.
+
 Status Changes: Records of changes in the patient's status during different clinical visits.
+
 Treatment Information: Information about the treatments received by the patients.
 
 ## Data Description
